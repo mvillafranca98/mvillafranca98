@@ -20,7 +20,9 @@ AI Automation & Systems Engineer based in Honduras. I build AI-powered workflows
 
 - Claude Code in Action — Anthropic (2026)
 - HIPAA Workforce Proficiency — Compliancy Group (2025)
-- Python for Everybody — University of Michigan (2025)
+- Python for Everybody — University of Michigan/Coursera (2025)
+- Python Data Structures - University of Michigan/Coursera (2026)
+- Learn HTML Course - Codecademy (2024)
 
 ## Get in touch
 
