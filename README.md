@@ -4,7 +4,7 @@ AI Automation & Systems Engineer based in Honduras. I build AI-powered workflows
 
 ## What I'm working on
 
-- Co-founder of [MediHealth](https://medihealthcrm.com), a HIPAA-compliant healthcare SaaS
+- Co-founder of [Macawly](https://macawly.dev)
 - Building autonomous AI agents with the Anthropic API
 - Shipping fast with AI-assisted development (Claude Code, Cursor)
 
