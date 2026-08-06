@@ -1,31 +1,36 @@
-# Hi, I'm Armando 
+# Hi, I'm Armando
 
-AI Automation & Systems Engineer based in Honduras. I build AI-powered workflows, autonomous agents, and full-stack products using Claude Code, Python, and modern web tools.
+Web developer based in Honduras. I build and ship web apps, client sites,
+and internal tools, and I integrate third-party services and AI into them.
 
 ## What I'm working on
 
-- Co-founder of [Macawly](https://macawly.dev)
-- Building autonomous AI agents with the Anthropic API
-- Shipping fast with AI-assisted development (Claude Code, Cursor)
+- Building web products through [Macawly](https://macawly.dev), a small web studio
+- Recent client work: [La Casa del Motor](https://lacasadelmotor.com),
+  a catalog site with live inventory and an admin panel
+- [SlicerSmthng](https://github.com/mvillafranca98/slicersmthng), a full-stack audio
+  app that runs a pretrained ML model on serverless GPU
+- Working through The Odin Project to deepen my JavaScript and full-stack fundamentals
 
-## Tech I use daily
+## Tech I use
 
-**Languages:** Python, TypeScript, JavaScript, SQL
-**Frontend:** React, Next.js, Tailwind CSS
-**Backend:** Node.js, FastAPI, Cloudflare Workers
-**AI & Automation:** Claude API, Gemini API, Zapier, Make, Playwright, Selenium
-**Infra:** Docker, GitHub Actions, Cloudflare, Firebase
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, HTML/CSS
+**Backend:** Node.js, Python, Flask, FastAPI
+**Data:** PostgreSQL, Firebase, Cloudflare D1
+**Integrations:** REST APIs, Stripe, Firebase Auth, webhooks
+**Infra:** Cloudflare (Pages, Workers, R2), Docker, GitHub Actions
+**AI:** Anthropic API, Claude Code, Cursor
 
 ## Certifications
 
-- Claude Code in Action — Anthropic (2026)
-- HIPAA Workforce Proficiency — Compliancy Group (2025)
-- Python for Everybody — University of Michigan/Coursera (2025)
-- Python Data Structures - University of Michigan/Coursera (2026)
-- Learn HTML Course - Codecademy (2024)
+- Claude Code in Action, Anthropic (2026)
+- Python Data Structures, University of Michigan/Coursera (2026)
+- Programming for Everybody, University of Michigan/Coursera (2025)
+- HIPAA Workforce Proficiency, Compliancy Group (2025)
+- Learn HTML, Codecademy (2024)
 
 ## Get in touch
 
 - mvillafranca98@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/armando-villafranca-2aa631204/)
-- [medihealthcrm.com](https://medihealthcrm.com)
+- [LinkedIn](https://linkedin.com/in/armando-villafranca)
+- [macawly.dev](https://macawly.dev)
